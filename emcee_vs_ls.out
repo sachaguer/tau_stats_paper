@@ -1,0 +1,23 @@
+Class created. Don't forget to load your rho and tau statistics and define your prior and your likelihood.
+Number of samples: 10000
+
+Parameters constraints
+----------------------
+Parameter: $\alpha$=0.0114^+0.0064_0.0064
+Parameter: $\beta$=1.0251^+0.1779_0.1775
+Parameter: $\eta$=-1.3890^+1.3199_1.3544
+Chi square: 49.08700313931773
+Time to get least-squares samples: 1.023 min
+Run MCMC analysis...
+Done
+Autocorrelation-time:
+[37.07923812 38.51256002 38.1163064 ]
+Number of samples: 12028
+
+Parameters constraints
+----------------------
+Parameter: $\alpha$=0.0118^+0.0078_0.0077
+Parameter: $\beta$=1.0575^+0.2179_0.2163
+Parameter: $\eta$=-1.3528^+1.5747_1.5457
+Max log_likelihood: -24.53001016635889
+Time to get emcee samples: 3.603 min

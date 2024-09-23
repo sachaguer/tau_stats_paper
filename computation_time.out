@@ -1,8 +1,8 @@
 Computing the covariance matrix for the version:  SP_v1.3_LFmask_8k
---- Computation of the rho and tau statistics for the covariance 238.11053347587585 seconds ---
---- Covariance computation 1722.809071779251 seconds ---
+--- Computation of the rho and tau statistics for the covariance 180.54737210273743 seconds ---
+--- Covariance computation 1649.4662642478943 seconds ---
 Saved covariance matrix of version:  SP_v1.3_LFmask_8k
-Time to get theory covariance: 28.714 min
+Time to get theory covariance: 27.491 min
 Computing rho-statistics of version SP_v1.3_LFmask_8k for jackknife patch 1/100
 Building catalog...
 Catalogs successfully built...
@@ -1003,4 +1003,4 @@ gal_SP_v1.3_LFmask_8k99
 Computation of the tau statistics of SP_v1.3_LFmask_8k99 in progress...
 Done...
 Computing the covariance...
-Time to get jackknife covariance: 308.925 min
+Time to get jackknife covariance: 226.522 min

@@ -1,0 +1,4 @@
+/var/spool/slurmd/job54614/slurm_script:11: command not found: module
+/var/spool/slurmd/job54614/slurm_script:12: command not found: module
+/home/guerrini/.conda/envs/sp_validation/lib/python3.9/site-packages/treecorr/util.py:665: FutureWarning: Use of keyword-only arguments as positional arguments is deprecated in the function estimate_multi_cov. The following parameters now require an explicit keyword name: ['func']
+  warnings.warn(
