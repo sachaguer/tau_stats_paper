@@ -2,7 +2,7 @@
 
 ## Scope of this repository
 
-This repository is aimed at reproducing the figures in Guerrini et al (in prep.).
+This repository is aimed at reproducing the figures in Guerrini et al (submitted.).
 
 ## Installation of the dependencies
 
@@ -43,3 +43,9 @@ Axel Guinot
 Fabian Hervas Peters
 
 Jingwei Wang
+
+Hendrik Hildebrandt
+
+Michael J. Hudson
+
+Alan McConnachie
